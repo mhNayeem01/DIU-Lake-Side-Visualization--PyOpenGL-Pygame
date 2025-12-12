@@ -1,0 +1,17 @@
+# DIU Lake Side Visualization - Computer Graphics Project
+# Python Package Requirements
+
+# Pygame - Game development library for window management and event handling
+# Used for creating the application window, handling keyboard/mouse events,
+# and managing the main game loop
+pygame>=2.6.0
+
+# PyOpenGL - Python bindings for OpenGL
+# Used for all 2D graphics rendering, including primitives (points, lines, polygons)
+# and implementing DDA and Midpoint Circle algorithms
+PyOpenGL>=3.1.7
+
+# Note: These are the only required packages for this project.
+# Python standard libraries used (included with Python):
+# - sys: System-specific parameters and functions
+# - math: Mathematical functions (cos, sin, pi)
